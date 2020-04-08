@@ -1,0 +1,3 @@
+# Ignore these files
+api_keys1.py
+*.ipynb_checkpoints
